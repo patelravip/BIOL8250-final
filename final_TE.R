@@ -26,11 +26,11 @@ rownames(coldata) = c(rnaSampleNames,riboSampleNames)
 ## DESeq2 object for differential translational efficiency test
 dds = DESeqDataSetFromTximport(txDat, colData=coldata, design=~assay+condition+assay:condition)
 dex = DESeq(dds, test="LRT", reduced=~assay+condition)
-res = results(dex)
+res = results(dex, contrast=c("condition","spar","scer"))
 write.table(res, file="te_results.txt", sep="\t", quote=FALSE)
 
-## Plot
-plotMA(res)
-# sizeFactorEst = estimateSizeFactors(dex)
-# dispEst = estimateDispersions(dex)
-plotDispEsts(dex, 1)
+# ## Plot
+# plotMA(res, ylim=c(-3,3), xlim=c(1e-1,1e5))
+# # sizeFactorEst = estimateSizeFactors(dex)
+# # dispEst = estimateDispersions(dex)
+# plotDispEsts(dex, 1)

@@ -24,8 +24,8 @@ dex = DESeq(dds)
 res = results(dex)
 write.table(res, file="riboseq_results.txt", sep="\t", quote=FALSE)
 
-## Plot
-plotMA(res)
-# sizeFactorEst = estimateSizeFactors(dex)
-# dispEst = estimateDispersions(dex)
-plotDispEsts(dex, 1)
+# ## Plot
+# plotMA(res)
+# # sizeFactorEst = estimateSizeFactors(dex)
+# # dispEst = estimateDispersions(dex)
+# plotDispEsts(dex, 1)
