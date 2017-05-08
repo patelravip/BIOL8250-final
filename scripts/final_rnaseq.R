@@ -10,7 +10,7 @@ library("tximport")
 analysisType = "rna_seq"
 sampleNames = c("scer_rep1","scer_rep2","spar_rep1","spar_rep2")
 sampleTypes = c("scer","scer","spar","spar")
-sampleFiles = c(paste("data",sampleTypes,analysisType,sampleNames,"abundance.2.tsv", sep="/"))
+sampleFiles = c(paste("../data",sampleTypes,analysisType,sampleNames,"abundance.2.tsv", sep="/"))
 
 ## Read in files
 txDat = tximport(sampleFiles, type="kallisto", txOut=TRUE)
@@ -21,7 +21,7 @@ rownames(coldata) = sampleNames
 dds = DESeqDataSetFromTximport(txDat, colData=coldata, design=~condition)
 dex = DESeq(dds)
 res = results(dex)
-write.table(res, file="rnaseq_results.txt", sep="\t", quote=FALSE)
+write.table(res, file="../tables/TXT/rnaseq_table.txt", sep="\t", quote=FALSE)
 
 # ## Plot
 # plotMA(res)
