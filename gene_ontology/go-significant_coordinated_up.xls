@@ -1,0 +1,103 @@
+GOID	GO term	Frequency	Genome Frequency	Gene(s)
+8150	 biological process unknown	4 out of 15 genes, 26.7%	1133 of 6433 genes, 17.6%	RTA1,ECM34,YLR046C,YML002W
+7124	 pseudohyphal growth	2 out of 15 genes, 13.3%	74 of 6433 genes, 1.2%	DIA1,HMS1
+71554	 cell wall organization or biogenesis	2 out of 15 genes, 13.3%	198 of 6433 genes, 3.1%	PIR3,PTP2
+6520	 cellular amino acid metabolic process	2 out of 15 genes, 13.3%	199 of 6433 genes, 3.1%	SER3,ARO9
+6970	 response to osmotic stress	2 out of 15 genes, 13.3%	92 of 6433 genes, 1.4%	MNN4,PTP2
+23052	 signaling	1 out of 15 genes, 6.7%	245 of 6433 genes, 3.8%	PTP2
+6486	 protein glycosylation	1 out of 15 genes, 6.7%	62 of 6433 genes, 1%	MNN4
+6470	 protein dephosphorylation	1 out of 15 genes, 6.7%	49 of 6433 genes, 0.8%	PTP2
+6468	 protein phosphorylation	1 out of 15 genes, 6.7%	197 of 6433 genes, 3.1%	PTP2
+31399	 regulation of protein modification process	1 out of 15 genes, 6.7%	111 of 6433 genes, 1.7%	PTP2
+1403	 invasive growth in response to glucose limitation	1 out of 15 genes, 6.7%	59 of 6433 genes, 0.9%	DIA1
+43934	 sporulation	1 out of 15 genes, 6.7%	133 of 6433 genes, 2.1%	PTP2
+6897	 endocytosis	1 out of 15 genes, 6.7%	97 of 6433 genes, 1.5%	BRE4
+6811	 ion transport	1 out of 15 genes, 6.7%	263 of 6433 genes, 4.1%	CTR3
+7010	 cytoskeleton organization	0 out of 15 genes, 0%	238 of 6433 genes, 3.7%	none
+6397	 mRNA processing	0 out of 15 genes, 0%	170 of 6433 genes, 2.6%	none
+6974	 cellular response to DNA damage stimulus	0 out of 15 genes, 0%	307 of 6433 genes, 4.8%	none
+5975	 carbohydrate metabolic process	0 out of 15 genes, 0%	198 of 6433 genes, 3.1%	none
+9451	 RNA modification	0 out of 15 genes, 0%	172 of 6433 genes, 2.7%	none
+6413	 translational initiation	0 out of 15 genes, 0%	61 of 6433 genes, 0.9%	none
+51726	 regulation of cell cycle	0 out of 15 genes, 0%	233 of 6433 genes, 3.6%	none
+8380	 RNA splicing	0 out of 15 genes, 0%	144 of 6433 genes, 2.2%	none
+42221	 response to chemical	0 out of 15 genes, 0%	446 of 6433 genes, 6.9%	none
+6352	 DNA-templated transcription, initiation	0 out of 15 genes, 0%	73 of 6433 genes, 1.1%	none
+6353	 DNA-templated transcription, termination	0 out of 15 genes, 0%	43 of 6433 genes, 0.7%	none
+33043	 regulation of organelle organization	0 out of 15 genes, 0%	283 of 6433 genes, 4.4%	none
+6497	 protein lipidation	0 out of 15 genes, 0%	45 of 6433 genes, 0.7%	none
+6869	 lipid transport	0 out of 15 genes, 0%	68 of 6433 genes, 1.1%	none
+42274	 ribosomal small subunit biogenesis	0 out of 15 genes, 0%	135 of 6433 genes, 2.1%	none
+6281	 DNA repair	0 out of 15 genes, 0%	256 of 6433 genes, 4%	none
+55085	 transmembrane transport	0 out of 15 genes, 0%	234 of 6433 genes, 3.6%	none
+746	 conjugation	0 out of 15 genes, 0%	124 of 6433 genes, 1.9%	none
+6605	 protein targeting	0 out of 15 genes, 0%	307 of 6433 genes, 4.8%	none
+16570	 histone modification	0 out of 15 genes, 0%	114 of 6433 genes, 1.8%	none
+6325	 chromatin organization	0 out of 15 genes, 0%	318 of 6433 genes, 4.9%	none
+6997	 nucleus organization	0 out of 15 genes, 0%	66 of 6433 genes, 1.0%	none
+6629	 lipid metabolic process	0 out of 15 genes, 0%	296 of 6433 genes, 4.6%	none
+902	 cell morphogenesis	0 out of 15 genes, 0%	29 of 6433 genes, 0.5%	none
+16197	 endosomal transport	0 out of 15 genes, 0%	102 of 6433 genes, 1.6%	none
+10324	 membrane invagination	0 out of 15 genes, 0%	0 of 6433 genes, 0%	none
+6401	 RNA catabolic process	0 out of 15 genes, 0%	132 of 6433 genes, 2.1%	none
+6310	 DNA recombination	0 out of 15 genes, 0%	185 of 6433 genes, 2.9%	none
+6260	 DNA replication	0 out of 15 genes, 0%	139 of 6433 genes, 2.2%	none
+51169	 nuclear transport	0 out of 15 genes, 0%	181 of 6433 genes, 2.8%	none
+70271	 protein complex biogenesis	0 out of 15 genes, 0%	293 of 6433 genes, 4.6%	none
+6979	 response to oxidative stress	0 out of 15 genes, 0%	105 of 6433 genes, 1.6%	none
+70925	 organelle assembly	0 out of 15 genes, 0%	135 of 6433 genes, 2.1%	none
+32196	 transposition	0 out of 15 genes, 0%	110 of 6433 genes, 1.7%	none
+7114	 cell budding	0 out of 15 genes, 0%	58 of 6433 genes, 0.9%	none
+18193	 peptidyl-amino acid modification	0 out of 15 genes, 0%	151 of 6433 genes, 2.3%	none
+48308	 organelle inheritance	0 out of 15 genes, 0%	60 of 6433 genes, 0.9%	none
+51321	 meiotic cell cycle	0 out of 15 genes, 0%	282 of 6433 genes, 4.4%	none
+6873	 cellular ion homeostasis	0 out of 15 genes, 0%	128 of 6433 genes, 2%	none
+6887	 exocytosis	0 out of 15 genes, 0%	49 of 6433 genes, 0.8%	none
+43144	 snoRNA processing	0 out of 15 genes, 0%	45 of 6433 genes, 0.7%	none
+42594	 response to starvation	0 out of 15 genes, 0%	56 of 6433 genes, 0.9%	none
+54	 ribosomal subunit export from nucleus	0 out of 15 genes, 0%	46 of 6433 genes, 0.7%	none
+910	 cytokinesis	0 out of 15 genes, 0%	84 of 6433 genes, 1.3%	none
+6360	 transcription from RNA polymerase I promoter	0 out of 15 genes, 0%	68 of 6433 genes, 1.1%	none
+45333	 cellular respiration	0 out of 15 genes, 0%	83 of 6433 genes, 1.3%	none
+7033	 vacuole organization	0 out of 15 genes, 0%	88 of 6433 genes, 1.4%	none
+8213	 protein alkylation	0 out of 15 genes, 0%	50 of 6433 genes, 0.8%	none
+6457	 protein folding	0 out of 15 genes, 0%	95 of 6433 genes, 1.5%	none
+6383	 transcription from RNA polymerase III promoter	0 out of 15 genes, 0%	41 of 6433 genes, 0.6%	none
+6091	 generation of precursor metabolites and energy	0 out of 15 genes, 0%	154 of 6433 genes, 2.4%	none
+51052	 regulation of DNA metabolic process	0 out of 15 genes, 0%	107 of 6433 genes, 1.7%	none
+7059	 chromosome segregation	0 out of 15 genes, 0%	203 of 6433 genes, 3.2%	none
+6414	 translational elongation	0 out of 15 genes, 0%	334 of 6433 genes, 5.2%	none
+42255	 ribosome assembly	0 out of 15 genes, 0%	59 of 6433 genes, 0.9%	none
+7005	 mitochondrion organization	0 out of 15 genes, 0%	265 of 6433 genes, 4.1%	none
+15931	 nucleobase-containing compound transport	0 out of 15 genes, 0%	143 of 6433 genes, 2.2%	none
+32787	 monocarboxylic acid metabolic process	0 out of 15 genes, 0%	140 of 6433 genes, 2.2%	none
+32543	 mitochondrial translation	0 out of 15 genes, 0%	167 of 6433 genes, 2.6%	none
+9311	 oligosaccharide metabolic process	0 out of 15 genes, 0%	27 of 6433 genes, 0.4%	none
+16050	 vesicle organization	0 out of 15 genes, 0%	81 of 6433 genes, 1.3%	none
+6366	 transcription from RNA polymerase II promoter	0 out of 15 genes, 0%	476 of 6433 genes, 7.4%	none
+278	 mitotic cell cycle	0 out of 15 genes, 0%	319 of 6433 genes, 5%	none
+8033	 tRNA processing	0 out of 15 genes, 0%	109 of 6433 genes, 1.7%	none
+51603	 proteolysis involved in cellular protein catabolic process	0 out of 15 genes, 0%	216 of 6433 genes, 3.4%	none
+51186	 cofactor metabolic process	0 out of 15 genes, 0%	179 of 6433 genes, 2.8%	none
+8643	 carbohydrate transport	0 out of 15 genes, 0%	33 of 6433 genes, 0.5%	none
+6354	 DNA-templated transcription, elongation	0 out of 15 genes, 0%	97 of 6433 genes, 1.5%	none
+51049	 regulation of transport	0 out of 15 genes, 0%	85 of 6433 genes, 1.3%	none
+51604	 protein maturation	0 out of 15 genes, 0%	52 of 6433 genes, 0.8%	none
+6364	 rRNA processing	0 out of 15 genes, 0%	311 of 6433 genes, 4.8%	none
+43543	 protein acylation	0 out of 15 genes, 0%	66 of 6433 genes, 1.0%	none
+2181	 cytoplasmic translation	0 out of 15 genes, 0%	180 of 6433 genes, 2.8%	none
+48193	 Golgi vesicle transport	0 out of 15 genes, 0%	191 of 6433 genes, 3%	none
+55086	 nucleobase-containing small molecule metabolic process	0 out of 15 genes, 0%	198 of 6433 genes, 3.1%	none
+6766	 vitamin metabolic process	0 out of 15 genes, 0%	43 of 6433 genes, 0.7%	none
+9408	 response to heat	0 out of 15 genes, 0%	73 of 6433 genes, 1.1%	none
+48285	 organelle fission	0 out of 15 genes, 0%	302 of 6433 genes, 4.7%	none
+7031	 peroxisome organization	0 out of 15 genes, 0%	50 of 6433 genes, 0.8%	none
+70647	 protein modification by small protein conjugation or removal	0 out of 15 genes, 0%	170 of 6433 genes, 2.6%	none
+42273	 ribosomal large subunit biogenesis	0 out of 15 genes, 0%	104 of 6433 genes, 1.6%	none
+6865	 amino acid transport	0 out of 15 genes, 0%	42 of 6433 genes, 0.7%	none
+32200	 telomere organization	0 out of 15 genes, 0%	78 of 6433 genes, 1.2%	none
+6418	 tRNA aminoacylation for protein translation	0 out of 15 genes, 0%	36 of 6433 genes, 0.6%	none
+6417	 regulation of translation	0 out of 15 genes, 0%	105 of 6433 genes, 1.6%	none
+48284	 organelle fusion	0 out of 15 genes, 0%	89 of 6433 genes, 1.4%	none
+61025	 membrane fusion	0 out of 15 genes, 0%	76 of 6433 genes, 1.2%	none
+other	other	2 out of 15 genes, 13.3%		FRE4,YPL088W

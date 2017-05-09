@@ -1,0 +1,103 @@
+GOID	GO term	Frequency	Genome Frequency	Gene(s)
+6520	 cellular amino acid metabolic process	19 out of 168 genes, 11.3%	199 of 6433 genes, 3.1%	ILS1,GRS1,IDP1,GLT1,YDR341C,SAM2,SAH1,ARO2,VAS1,CYS4,THS1,CPA2,PDC1,PDC5,SAM1,GLN4,ALA1,CDC60,ASN1
+6629	 lipid metabolic process	17 out of 168 genes, 10.1%	296 of 6433 genes, 4.6%	CSG2,CWH43,UPC2,SAH1,RSP5,FLC3,CHO2,ERG1,NCP1,SCH9,AUR1,FAS1,MOT3,SEC14,TCB2,ACC1,FAS2
+6366	 transcription from RNA polymerase II promoter	16 out of 168 genes, 9.5%	476 of 6433 genes, 7.4%	CCR4,REG1,UPC2,CFT1,RSP5,SGF73,STE20,SCH9,MLP1,IKI3,MOT3,RAP1,SIN3,RPB2,TBF1,ROX1
+51186	 cofactor metabolic process	16 out of 168 genes, 9.5%	179 of 6433 genes, 2.8%	MIS1,HEM1,SAM2,RSP5,HXK2,ADE3,PFK1,TDH2,SPE1,PDC1,PDC5,ACS2,SAM1,PFK2,RAP1,TKL1
+55085	 transmembrane transport	15 out of 168 genes, 8.9%	234 of 6433 genes, 3.6%	FUI1,VMA2,VMA9,BAP3,SPF1,CAN1,AQY3,PMA1,FLC3,KAR2,SSC1,MIR1,SSA2,HSP60,TOM40
+42221	 response to chemical	14 out of 168 genes, 8.3%	446 of 6433 genes, 6.9%	PMT2,CDC48,REG1,UPC2,RSP5,STE20,SCH9,SSM4,KAR2,SCP160,MNS1,PMT4,SPA2,YNL190W
+51169	 nuclear transport	14 out of 168 genes, 8.3%	181 of 6433 genes, 2.8%	SXM1,TOM1,ARB1,RSP5,RPS26B,SGF73,CRM1,NUP192,MLP1,SSA2,RIX7,PSE1,ACC1,NEW1
+6364	 rRNA processing	14 out of 168 genes, 8.3%	311 of 6433 genes, 4.8%	FUN12,NOP14,TOM1,SNU13,RSP5,NSA2,RPS23A,SSZ1,UTP10,NOP56,RRP5,DBP2,NOP58,BMS1
+6325	 chromatin organization	13 out of 168 genes, 7.7%	318 of 6433 genes, 4.9%	POL30,CDC48,REG1,RSP5,SGF73,SCP160,MLP1,ACS2,GAS1,RAP1,SIN3,MSH2,TBF1
+70271	 protein complex biogenesis	13 out of 168 genes, 7.7%	293 of 6433 genes, 4.6%	VMA2,VMA9,SPC110,PMA1,SGF73,COX13,UFD4,HSP60,HSC82,PFK2,OST3,SEC16,HSP82
+32787	 monocarboxylic acid metabolic process	13 out of 168 genes, 7.7%	140 of 6433 genes, 2.2%	RSP5,HXK2,PFK1,TDH2,FAS1,SPE1,PDC1,PDC5,PFK2,RAP1,ACC1,FAS2,ASN1
+278	 mitotic cell cycle	13 out of 168 genes, 7.7%	319 of 6433 genes, 5%	CCR4,POL30,CDC48,GIC2,SPC110,TOM1,CYS4,STE20,HSL1,SPA2,PSE1,SIN3,MYO2
+55086	 nucleobase-containing small molecule metabolic process	13 out of 168 genes, 7.7%	198 of 6433 genes, 3.1%	ADK1,SAH1,ADE5,7,HXK2,ADE6,ADE3,PFK1,TDH2,PDC1,PDC5,PFK2,RAP1,TKL1
+5975	 carbohydrate metabolic process	11 out of 168 genes, 6.5%	198 of 6433 genes, 3.1%	REG1,AMS1,HXK2,PFK1,KAR2,TDH2,HOC1,PDC1,PDC5,PFK2,RAP1
+33043	 regulation of organelle organization	11 out of 168 genes, 6.5%	283 of 6433 genes, 4.4%	CDC48,DHH1,GIC2,RSP5,STE20,SPA2,PSE1,RAP1,SIN3,TBF1,HSP82
+6605	 protein targeting	11 out of 168 genes, 6.5%	307 of 6433 genes, 4.8%	PEP1,KAR2,SSC1,MLP1,SSA2,HSP60,TOM40,PSE1,ACC1,STI1,HSP82
+15931	 nucleobase-containing compound transport	11 out of 168 genes, 6.5%	143 of 6433 genes, 2.2%	FUI1,SXM1,RSP5,RPS26B,SGF73,FLC3,CRM1,MLP1,SSA2,PSE1,NEW1
+6811	 ion transport	11 out of 168 genes, 6.5%	263 of 6433 genes, 4.1%	BAP3,CAN1,PMA1,FLC3,PMR1,PFK1,MIR1,SEC14,PFK2,MEP2,ALR1
+42274	 ribosomal small subunit biogenesis	10 out of 168 genes, 6%	135 of 6433 genes, 2.1%	FUN12,NOP14,TOM1,SNU13,RPS23A,UTP10,RRP5,NOP58,BMS1,NEW1
+6091	 generation of precursor metabolites and energy	10 out of 168 genes, 6%	154 of 6433 genes, 2.4%	REG1,COX13,HXK2,PFK1,TDH2,PUF3,PDC1,PDC5,PFK2,RAP1
+51052	 regulation of DNA metabolic process	10 out of 168 genes, 6%	107 of 6433 genes, 1.7%	CCR4,POL30,CDC48,MSH6,SSC1,UFD4,SIN3,MSH2,TBF1,HSP82
+48285	 organelle fission	10 out of 168 genes, 6%	302 of 6433 genes, 4.7%	POL30,CDC48,MSH6,GIC2,SPC110,TOM1,STE20,SCP160,PSE1,MSH2
+7005	 mitochondrion organization	9 out of 168 genes, 5.4%	265 of 6433 genes, 4.1%	RSP5,COX13,SSC1,PUF3,HSP60,TOM40,STI1,MYO2,HSP82
+51603	 proteolysis involved in cellular protein catabolic process	9 out of 168 genes, 5.4%	216 of 6433 genes, 3.4%	PMT2,CDC48,TOM1,RSP5,RPN1,SSM4,KAR2,MNS1,SSA2
+6873	 cellular ion homeostasis	8 out of 168 genes, 4.8%	128 of 6433 genes, 2%	CSG2,VMA2,VMA9,VMA1,SPF1,PMR1,PFK1,PFK2
+2181	 cytoplasmic translation	8 out of 168 genes, 4.8%	180 of 6433 genes, 2.8%	FUN12,SRO9,RPP2B,HYP2,RPS26B,SSZ1,CLU1,RPL15B
+6418	 tRNA aminoacylation for protein translation	8 out of 168 genes, 4.8%	36 of 6433 genes, 0.6%	ILS1,GRS1,YDR341C,VAS1,THS1,GLN4,ALA1,CDC60
+746	 conjugation	7 out of 168 genes, 4.2%	124 of 6433 genes, 1.9%	SPC110,RSP5,STE20,KAR2,SCP160,SPA2,SCW10
+6401	 RNA catabolic process	7 out of 168 genes, 4.2%	132 of 6433 genes, 2.1%	CCR4,CDC48,DHH1,PAB1,MLP1,PUF3,DBP2
+51321	 meiotic cell cycle	7 out of 168 genes, 4.2%	282 of 6433 genes, 4.4%	POL30,YSW1,MSH6,SCP160,SEC14,SIN3,MSH2
+71554	 cell wall organization or biogenesis	7 out of 168 genes, 4.2%	198 of 6433 genes, 3.1%	VMA9,CWH43,PSA1,SIM1,KAR2,HOC1,GAS1
+6457	 protein folding	7 out of 168 genes, 4.2%	95 of 6433 genes, 1.5%	SSC1,SSA2,HSP60,HSC82,STI1,SSE1,HSP82
+6417	 regulation of translation	7 out of 168 genes, 4.2%	105 of 6433 genes, 1.6%	FUN12,DHH1,HYP2,PAB1,GCN1,RPS23A,SSZ1
+8150	 biological process unknown	7 out of 168 genes, 4.2%	1133 of 6433 genes, 17.6%	EDS1,YEL050W-A,YIL108W,TOH1,INA1,PSP2,IMD4
+7010	 cytoskeleton organization	6 out of 168 genes, 3.6%	238 of 6433 genes, 3.7%	CDC48,GIC2,SPC110,RSP5,SPA2,MYO2
+6974	 cellular response to DNA damage stimulus	6 out of 168 genes, 3.6%	307 of 6433 genes, 4.8%	POL30,MSH6,MKT1,RAP1,SIN3,MSH2
+6413	 translational initiation	6 out of 168 genes, 3.6%	61 of 6433 genes, 0.9%	FUN12,HYP2,PAB1,CLU1,NIP1,DED1
+51726	 regulation of cell cycle	6 out of 168 genes, 3.6%	233 of 6433 genes, 3.6%	CCR4,GIC2,CYS4,STE20,HSL1,PSE1
+6997	 nucleus organization	6 out of 168 genes, 3.6%	66 of 6433 genes, 1.0%	SPC110,TOM1,KAR2,NUP192,MLP1,ACC1
+6260	 DNA replication	6 out of 168 genes, 3.6%	139 of 6433 genes, 2.2%	CCR4,POL30,MSH6,ADK1,SIN3,MSH2
+6414	 translational elongation	6 out of 168 genes, 3.6%	334 of 6433 genes, 5.2%	DHH1,HYP2,GCN1,RPS23A,SSZ1,YEF3
+48193	 Golgi vesicle transport	6 out of 168 genes, 3.6%	191 of 6433 genes, 3%	SEC26,SEC27,CHC1,SEC14,RSN1,SEC16
+23052	 signaling	6 out of 168 genes, 3.6%	245 of 6433 genes, 3.8%	PMT2,STE20,SCP160,PMT4,LST4,CDC60
+70647	 protein modification by small protein conjugation or removal	6 out of 168 genes, 3.6%	170 of 6433 genes, 2.6%	CDC48,TOM1,RSP5,SGF73,UFD4,PSE1
+6486	 protein glycosylation	5 out of 168 genes, 3%	62 of 6433 genes, 1%	PMT2,PSA1,MNN1,PMT4,OST3
+6468	 protein phosphorylation	5 out of 168 genes, 3%	197 of 6433 genes, 3.1%	RPP2B,STE20,SCH9,HSL1,KNS1
+70925	 organelle assembly	5 out of 168 genes, 3%	135 of 6433 genes, 2.1%	FUN12,DHH1,RPS26B,STE20,RRP5
+18193	 peptidyl-amino acid modification	5 out of 168 genes, 3%	151 of 6433 genes, 2.3%	SGF73,HSL1,KNS1,ACS2,PSE1
+6970	 response to osmotic stress	5 out of 168 genes, 3%	92 of 6433 genes, 1.4%	STE20,SCH9,MOT3,HSP82,ROX1
+6397	 mRNA processing	4 out of 168 genes, 2.4%	170 of 6433 genes, 2.6%	CFT1,SNU13,PRP8,DED1
+9451	 RNA modification	4 out of 168 genes, 2.4%	172 of 6433 genes, 2.7%	TRM3,NOP56,IKI3,TRM13
+8380	 RNA splicing	4 out of 168 genes, 2.4%	144 of 6433 genes, 2.2%	SNU13,PRP8,DED1,MNE1
+6281	 DNA repair	4 out of 168 genes, 2.4%	256 of 6433 genes, 4%	POL30,MSH6,SIN3,MSH2
+31399	 regulation of protein modification process	4 out of 168 genes, 2.4%	111 of 6433 genes, 1.7%	CDC48,RPP2B,STE20,PSE1
+16570	 histone modification	4 out of 168 genes, 2.4%	114 of 6433 genes, 1.8%	CDC48,SGF73,ACS2,SIN3
+54	 ribosomal subunit export from nucleus	4 out of 168 genes, 2.4%	46 of 6433 genes, 0.7%	ARB1,RSP5,CRM1,RIX7
+6360	 transcription from RNA polymerase I promoter	4 out of 168 genes, 2.4%	68 of 6433 genes, 1.1%	SCH9,UTP10,SIN3,RPA190
+7059	 chromosome segregation	4 out of 168 genes, 2.4%	203 of 6433 genes, 3.2%	POL30,CDC48,SPC110,SCP160
+8033	 tRNA processing	4 out of 168 genes, 2.4%	109 of 6433 genes, 1.7%	TRM3,RSP5,IKI3,TRM13
+51049	 regulation of transport	4 out of 168 genes, 2.4%	85 of 6433 genes, 1.3%	UPC2,RSP5,STE20,NUP192
+42273	 ribosomal large subunit biogenesis	4 out of 168 genes, 2.4%	104 of 6433 genes, 1.6%	TOM1,NSA2,RIX7,RRP5
+32200	 telomere organization	4 out of 168 genes, 2.4%	78 of 6433 genes, 1.2%	HSC82,RAP1,TBF1,HSP82
+6869	 lipid transport	3 out of 168 genes, 1.8%	68 of 6433 genes, 1.1%	UPC2,STE20,SEC14
+16197	 endosomal transport	3 out of 168 genes, 1.8%	102 of 6433 genes, 1.6%	RSP5,SEC27,CHC1
+902	 cell morphogenesis	3 out of 168 genes, 1.8%	29 of 6433 genes, 0.5%	RSP5,SPA2,MYO2
+7114	 cell budding	3 out of 168 genes, 1.8%	58 of 6433 genes, 0.9%	STE20,SPA2,MYO2
+910	 cytokinesis	3 out of 168 genes, 1.8%	84 of 6433 genes, 1.3%	STE20,SPA2,MYO2
+42255	 ribosome assembly	3 out of 168 genes, 1.8%	59 of 6433 genes, 0.9%	FUN12,RPS26B,RRP5
+7124	 pseudohyphal growth	3 out of 168 genes, 1.8%	74 of 6433 genes, 1.2%	STE20,SPA2,MEP2
+9408	 response to heat	3 out of 168 genes, 1.8%	73 of 6433 genes, 1.1%	STE20,HSC82,SIN3
+6897	 endocytosis	3 out of 168 genes, 1.8%	97 of 6433 genes, 1.5%	ECM21,RSP5,CHC1
+48284	 organelle fusion	3 out of 168 genes, 1.8%	89 of 6433 genes, 1.4%	CDC48,SPC110,KAR2
+6353	 DNA-templated transcription, termination	2 out of 168 genes, 1.2%	43 of 6433 genes, 0.7%	GRS1,CFT1
+48308	 organelle inheritance	2 out of 168 genes, 1.2%	60 of 6433 genes, 0.9%	STE20,MYO2
+6887	 exocytosis	2 out of 168 genes, 1.2%	49 of 6433 genes, 0.8%	PMR1,MYO2
+42594	 response to starvation	2 out of 168 genes, 1.2%	56 of 6433 genes, 0.9%	REG1,UPC2
+45333	 cellular respiration	2 out of 168 genes, 1.2%	83 of 6433 genes, 1.3%	COX13,PUF3
+7033	 vacuole organization	2 out of 168 genes, 1.2%	88 of 6433 genes, 1.4%	STE20,MYO2
+6383	 transcription from RNA polymerase III promoter	2 out of 168 genes, 1.2%	41 of 6433 genes, 0.6%	SCH9,KNS1
+43934	 sporulation	2 out of 168 genes, 1.2%	133 of 6433 genes, 2.1%	YSW1,SEC14
+32543	 mitochondrial translation	2 out of 168 genes, 1.2%	167 of 6433 genes, 2.6%	GRS1,ALA1
+16050	 vesicle organization	2 out of 168 genes, 1.2%	81 of 6433 genes, 1.3%	SEC14,SEC16
+8643	 carbohydrate transport	2 out of 168 genes, 1.2%	33 of 6433 genes, 0.5%	HXK2,HXT2
+51604	 protein maturation	2 out of 168 genes, 1.2%	52 of 6433 genes, 0.8%	HSP60,HSP82
+43543	 protein acylation	2 out of 168 genes, 1.2%	66 of 6433 genes, 1.0%	SGF73,ACS2
+6766	 vitamin metabolic process	2 out of 168 genes, 1.2%	43 of 6433 genes, 0.7%	MIS1,SPE1
+6865	 amino acid transport	2 out of 168 genes, 1.2%	42 of 6433 genes, 0.7%	BAP3,CAN1
+6352	 DNA-templated transcription, initiation	1 out of 168 genes, 0.6%	73 of 6433 genes, 1.1%	SGF73
+6497	 protein lipidation	1 out of 168 genes, 0.6%	45 of 6433 genes, 0.7%	CWH43
+6310	 DNA recombination	1 out of 168 genes, 0.6%	185 of 6433 genes, 2.9%	MSH2
+6979	 response to oxidative stress	1 out of 168 genes, 0.6%	105 of 6433 genes, 1.6%	SCH9
+9311	 oligosaccharide metabolic process	1 out of 168 genes, 0.6%	27 of 6433 genes, 0.4%	AMS1
+6354	 DNA-templated transcription, elongation	1 out of 168 genes, 0.6%	97 of 6433 genes, 1.5%	CCR4
+1403	 invasive growth in response to glucose limitation	1 out of 168 genes, 0.6%	59 of 6433 genes, 0.9%	STE20
+7031	 peroxisome organization	1 out of 168 genes, 0.6%	50 of 6433 genes, 0.8%	MYO2
+61025	 membrane fusion	1 out of 168 genes, 0.6%	76 of 6433 genes, 1.2%	CDC48
+6470	 protein dephosphorylation	0 out of 168 genes, 0%	49 of 6433 genes, 0.8%	none
+8213	 protein alkylation	0 out of 168 genes, 0%	50 of 6433 genes, 0.8%	none
+32196	 transposition	0 out of 168 genes, 0%	110 of 6433 genes, 1.7%	none
+43144	 snoRNA processing	0 out of 168 genes, 0%	45 of 6433 genes, 0.7%	none
+10324	 membrane invagination	0 out of 168 genes, 0%	0 of 6433 genes, 0%	none
+other	other	3 out of 168 genes, 1.8%		ARO1,KEX1,LNP1

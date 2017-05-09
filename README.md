@@ -1,7 +1,6 @@
 # BIOL8250-final
-Procedure:
-1) Extract genes for each spp
-2) Quantify expression by running kallisto
-3) Sort all abundance files same (This is required so that txImport doesn't complain about each file not haveing the same genes)
-4) Run *.R scripts to get DESeq results
-5) Process final results
+-PatelRavi_BIOL8250_Final - Final submission in DOCX and PDF
+-tables - supplementary tables of genes in each analysis with FDR < 10%
+-scripts - Python scripts used for analysis and graphing
+-gene_ontology - GO results for significantly evolving genes
+-gene_lists - txt files of genes used for GO analysis
